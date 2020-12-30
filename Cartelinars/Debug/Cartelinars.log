@@ -1,0 +1,11 @@
+﻿  game.cpp
+F:\Cartelinars\Cartelinars\Cartelinars\game.cpp(7,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Cartelinars\Cartelinars\Cartelinars\game.cpp(16,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Cartelinars\Cartelinars\Cartelinars\game.cpp(25,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Cartelinars\Cartelinars\Cartelinars\game.cpp(27,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\Cartelinars\Cartelinars\Cartelinars\game.cpp(37,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Cartelinars\Cartelinars\Cartelinars\game.cpp(37,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Cartelinars\Cartelinars\Cartelinars\game.cpp(49,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Cartelinars.vcxproj -> F:\Cartelinars\Cartelinars\Debug\Cartelinars.exe
